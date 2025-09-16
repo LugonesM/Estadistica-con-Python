@@ -28,14 +28,14 @@ La no-normalidad de la distribución indica que el proceso está sujeto a factor
 ==================================================
 
 ESTADÍSTICAS DE LA SIMULACIÓN:
-  Promedio de paquetes:     1258.07
-  Mediana:                  1218.00
-  Desviación estándar:      224.44
-  Valor mínimo:             812
-  Valor máximo:             2669
-  Primer cuartil (Q1):      1105.75
-  Tercer cuartil (Q3):      1378.25
-  Coeficiente de variación: 0.1784
+  - Promedio de paquetes:     1258.07
+  - Mediana:                  1218.00
+  - Desviación estándar:      224.44
+  - Valor mínimo:             812
+  - Valor máximo:             2669
+  - Primer cuartil (Q1):      1105.75
+  - Tercer cuartil (Q3):      1378.25
+  - Coeficiente de variación: 0.1784
 
 Test de Shapiro-Wilk:
   Estadístico: 0.930629
@@ -50,7 +50,7 @@ Test de Shapiro-Wilk:
 ==================================================
 
 Comparación con valor teórico:
-  Valor teórico aproximado: 1261.57 paquetes
-  Valor simulado:          1258.07 paquetes
-  Diferencia:              3.50 paquetes
-  Error relativo:          0.28%
+  - Valor teórico aproximado: 1261.57 paquetes
+  - Valor simulado:          1258.07 paquetes
+  - Diferencia:              3.50 paquetes
+  - Error relativo:          0.28%
