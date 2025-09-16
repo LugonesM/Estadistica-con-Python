@@ -38,14 +38,14 @@ ESTADÍSTICAS DE LA SIMULACIÓN:
   - Coeficiente de variación: 0.1784
 
 Test de Shapiro-Wilk:
-  Estadístico: 0.930629
-  p-valor: 0.000000
-  ¿Normal?: No
+  - Estadístico: 0.930629
+  - p-valor: 0.000000
+  - ¿Normal?: No
 
-  Test de Kolmogorov-Smirnov:
-  Estadístico: 0.083408
-  p-valor: 0.000002
-  ¿Normal?: No
+Test de Kolmogorov-Smirnov:
+  - Estadístico: 0.083408
+  - p-valor: 0.000002
+  - ¿Normal?: No
   
 ==================================================
 
