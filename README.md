@@ -2,7 +2,7 @@
 Ejersicio de simulacion realizado con Python para la materia de Estadistica 
 
 Consigna: Armar una simulación basada en N=100 repeticiones que permita estimar el promedio de paquetes necesarios para conseguir llenar el álbum de figuritas del Mundial Qatar 2022. [OPCIONAL] Si es posible, representar el histograma de la cantidad de paquetes necesarios para completar el álbum a partir de la simulación. Puede usarse import seaborn as sns y sns.histplot().
-A diferencia de la resolución a mano, aquí propondremos una versión más realista: el álbum del Mundial Qatar 2022 tiene figus_total=860 y vamos a suponer que el paquete no trae una figurita, sino varias: figus_paquete=5. Además, Panini, empresa creadora del álbum del Mundial Qatar 2022, asegura que NO vienen figuritas repetidas por paquete. Para resolver este problema, podés optar por simularlo de acuerdo con esto que asegura Panini, o no. Es tu elección.
+A diferencia de la resolución a mano, aquí propondremos una versión más realista: el álbum del Mundial Qatar 2022 tiene figus_total=860 y vamos a suponer que el paquete no trae una figurita, sino varias: figus_paquete=5. Además, Panini, empresa creadora del álbum del Mundial Qatar 2022, asegura que NO vienen figuritas repetidas por paquete. 
 
 
 
