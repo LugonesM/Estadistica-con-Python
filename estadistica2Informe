@@ -1,4 +1,9 @@
-Consigna: Armar una simulación basada en N=100 repeticiones que permita estimar el promedio de paquetes necesarios para conseguir llenar el álbum de figuritas del Mundial Qatar 2022. [OPCIONAL]: Si es posible, representar el histograma de la cantidad de paquetes necesarios para completar el álbum a partir de la simulación. Puede usarse import seaborn as sns y sns.histplot(). A diferencia de la resolución a mano, aquí propondremos una versión más realista: el álbum del Mundial Qatar 2022 tiene figus_total=860 y vamos a suponer que el paquete no trae una figurita, sino varias: figus_paquete=5. Además, Panini, empresa creadora del álbum del Mundial Qatar 2022, asegura que NO vienen figuritas repetidas por paquete.
+Consigna: Armar una simulación basada en N=100 repeticiones que permita estimar el promedio de paquetes necesarios para conseguir llenar el álbum de figuritas del Mundial Qatar 2022. 
+[OPCIONAL]: Si es posible, representar el histograma de la cantidad de paquetes necesarios para completar el álbum a partir de la simulación.
+Puede usarse import seaborn as sns y sns.histplot(). A diferencia de la resolución a mano, aquí propondremos una versión más realista: el álbum del Mundial Qatar 2022 tiene figus_total=860 y vamos a suponer que el paquete no trae una figurita, sino varias: figus_paquete=5. Además, Panini, empresa creadora del álbum del Mundial Qatar 2022, asegura que NO vienen figuritas repetidas por paquete.
+
+
+
 
 Informe de la simulacion:
 
@@ -13,8 +18,6 @@ Los tests de normalidad (Shapiro-Wilk y Kolmogorov-Smirnov) confirman con alta s
 El 50% de las simulaciones procesaron menos de 1218 paquetes y el otro 50% más de esta cantidad. La diferencia entre la mediana y la media (40.07 paquetes) indica una ligera asimetría en la distribución hacia valores más altos.
 
 La no-normalidad de la distribución indica que el proceso está sujeto a factores que crean asimetría, posiblemente eventos aleatorios o condiciones variables que afectan el rendimiento. La proximidad entre el valor simulado (1258.07) y teórico (1261.57) valida el modelo matemático.
-
-
 
 ==================================================
 
